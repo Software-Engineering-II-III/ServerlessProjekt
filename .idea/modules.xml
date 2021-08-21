@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bulk-events-stage/bulk-events-stage.iml" filepath="$PROJECT_DIR$/bulk-events-stage/bulk-events-stage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-Data-Pipeline.iml" filepath="$PROJECT_DIR$/chapter6-Data-Pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-code/common-code.iml" filepath="$PROJECT_DIR$/common-code/common-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/integration-tests.iml" filepath="$PROJECT_DIR$/integration-tests/integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-event-stage/single-event-stage.iml" filepath="$PROJECT_DIR$/single-event-stage/single-event-stage.iml" />
+    </modules>
+  </component>
+</project>

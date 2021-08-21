@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bulk-events-stage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/single-event-stage/src/main/java" charset="UTF-8" />
+  </component>
+</project>
